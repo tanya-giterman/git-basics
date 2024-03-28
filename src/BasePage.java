@@ -15,5 +15,8 @@ public class BasePage {
         System.out.println("logging" + username + " password " + password);
 
     }
+    public void thisIsTestBranchMethod(){
+
+    }
 
 }
