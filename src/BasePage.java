@@ -4,6 +4,10 @@ public class BasePage {
 
 
     }
+
+    public BasePage() {
+    }
+
     public void navigteToMenuItem(String menuItem){
         System.out.println("navigate to " + menuItem);
     }
