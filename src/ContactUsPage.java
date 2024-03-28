@@ -4,6 +4,6 @@ public class ContactUsPage extends BasePage {
     }
 
     public void newContactAdded(){
-        System.out.println("Add new contact");
+        System.out.println("Add new contact ");
     }
 }
